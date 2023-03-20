@@ -1,6 +1,3 @@
 Aca deberia ir lo que no me gusta de Tecro, pero como es una prueba no va a ir eso.
-<<<<<<< HEAD
-=======
 
 _Editado desde github._
->>>>>>> 240a2524ce8860f995543b210b55b761b400e82c
